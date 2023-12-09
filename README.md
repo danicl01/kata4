@@ -1,4 +1,4 @@
-# IS2 - Kata 4
+# IS2 - Kata 4 -> Rama Master
 
 Aplicación Java que utiliza Maven para la gestión de dependencias SQLite para la persistencia de datos.
 
